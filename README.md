@@ -1,24 +1,25 @@
 # Heartbeat Documentation Open Codes Hackathon 2018
 
 ## Team Members
-- Jannis Hörner _(salier89)_
-- Patrick Piatkowski
-- Vitalij Selynin
-- Markus Spöri
+- Jannis Hörner _([salier89](https://github.com/salier89))_
+- Patrick Piatkowski _([derpatrick](https://github.com/derpatrick))_
+- Vitalij Selynin _([VitalijSelynin](https://github.com/VitalijSelynin))_
+- Markus Spöri _([mspoeri](https://github.com/mspoeri))_
 
 ## Inspiration
-Coming from the embedded health devices section, most of the team members shared one question: Is it possible to build cheap devices with acual technology for medical use? Can we build a cheap ECG (electrocardiogram) from scratch. 
+Coming from the embedded health devices section, most of the team members shared one question: <br>
+Is it possible to build cheap devices with acual technology for medical use? <br>
+Can we build a cheap ECG (electrocardiogram) from scratch?
 
 *But how to visualize the data?* <br>
 Better question:<br>
 _How to **perceive** it?_
 
-The key is **music**. - *But how?* -> See next chapter
+The key is full perception through **music** and **data curves**. - *But how?* -> See next section
 
 ## What it does
 A full stack implementation of an ECG monitor, 
-beginning by the analog signals captured from your skin and ending in a remote web monitor visualizing and audibly multiple connected ECGs.
-
+beginning by the analog signals captured from your skin ending in a remote web monitor visualizing multiple ECG devices and making them audible.<br>
 Heartbeat connects to one or more IoT devices recording an electrocardiogram to get health data from the users.
 The health data is visualized in a web application.
 
