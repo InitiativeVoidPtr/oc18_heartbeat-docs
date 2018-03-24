@@ -7,7 +7,7 @@
 - Markus Spöri _([mspoeri](https://github.com/mspoeri))_
 
 ## Inspiration
-Coming from the embedded health devices section, most of the team members shared one question: <br>
+Coming from the embedded health devices section, the team was eager to find answers to the following questions: <br>
 Is it possible to build cheap devices with acual technology for medical use? <br>
 Can we build a cheap ECG (electrocardiogram) from scratch?
 
