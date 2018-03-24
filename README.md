@@ -28,6 +28,6 @@ The Flow of our Heartbeat application roughly looks like this:
 - The Microcontroller sends its data to the [mBed Cloud](https://www.mbed.com/)
 - A [Spring](https://spring.io/) backend queries the data and applies filtering
 - The filtered data is then queried by the [Angular](https://angular.io/) frontend
-- The frontend displays the data in a chart
-- Also the data is mapped to musical notes to play some nice tune :)
+  - The frontend displays the data in a chart
+  - Also the data is mapped to musical notes to play some nice tune :)
 
