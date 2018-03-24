@@ -7,7 +7,7 @@
 - Markus Spöri
 
 ## Inspiration
-Coming from the embedded health devices section, most of the team members shared one idea: Building a cheap ECG (electrocardiogram) from scratch. 
+Coming from the embedded health devices section, most of the team members shared one question: Is it possible to build cheap devices with acual technology for medical use? Can we build a cheap ECG (electrocardiogram) from scratch. 
 
 *But how to visualize the data?* <br>
 Better question:<br>
