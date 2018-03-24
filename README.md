@@ -16,6 +16,9 @@ _How to **perceive** it?_
 The key is **music**. - *But how?* -> See next chapter
 
 ## What it does
+A full stack implementation of an ECG monitor, 
+beginning by the analog signals captured from your skin and ending in a remote web monitor visualizing and audibly multiple connected ECGs.
+
 Heartbeat connects to one or more IoT devices recording an electrocardiogram to get health data from the users.
 The health data is visualized in a web application.
 
